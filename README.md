@@ -10,8 +10,6 @@ ipykernel
 
 matplotlib
 
-pandas
-
 seaborn
 
 ### Required Data
